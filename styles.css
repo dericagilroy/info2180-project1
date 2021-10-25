@@ -179,3 +179,11 @@ form {
 .newsletter button:hover {
     background-color: #b2b6e0;
 }
+
+/*-------------------------------------------------------------------------------------------------------------------*/
+
+footer {
+    background-color: #4A5568;
+    color: #FFFFFF;
+    text-align: center;
+}
