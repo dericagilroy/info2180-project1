@@ -53,3 +53,37 @@ li a:hover {
 .overview-hero-text {
     padding-top: 20px;
 }
+
+/*-------------------------------------------------------------------------------------------------------------------*/
+
+.learn-about .container {
+    padding: 50px 40px;
+}
+
+.learn-about h2 {
+    color: #48BB78;
+    font-size: 24px;
+}
+
+.cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 30px 30px;
+    grid-auto-flow: row;
+}
+
+.card {
+    border-color: #E2E8F0;
+    border-radius: 5px;
+    box-shadow: 5px 5px lightgrey;
+}
+
+.card img {
+    padding-top: 10px;
+}
+
+.card-body h3 {
+    color: #48BB78;
+    font-size: 21px;
+}
