@@ -10,3 +10,30 @@ body {
     width: 100%;
     overflow: hidden;
 }
+
+/*-------------------------------------------------------------------------------------------------------------------*/
+
+h1 {
+    float: left;
+    margin-right: 200px;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style-type: none;
+    margin-top: 35px;
+}
+
+ul li {
+    padding: 0px 10px;
+}
+
+li a {
+    color: #6b7280;   
+}
+
+li a:hover {
+    color: #5A67D8;
+}
