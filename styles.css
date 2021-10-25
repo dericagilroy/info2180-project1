@@ -140,3 +140,42 @@ article img {
 .article-body {
     padding-bottom: 25px;
 }
+
+/*-------------------------------------------------------------------------------------------------------------------*/
+
+.newsletter {
+    background-color: #48BB78;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 50px;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-group {
+    padding: 5px;
+}
+
+#email {
+    padding: 10px 20px;
+    height: 26px;
+    border-radius: 5px;
+}
+
+.newsletter button {
+    background-color: #5A67D8;
+    color: #FFFFFF;
+    border-radius: 5px;
+    padding: 10px 20px;
+    border: none;
+    height: 50px;
+    cursor: pointer;
+}
+
+.newsletter button:hover {
+    background-color: #b2b6e0;
+}
