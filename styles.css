@@ -37,3 +37,19 @@ li a {
 li a:hover {
     color: #5A67D8;
 }
+
+/*-------------------------------------------------------------------------------------------------------------------*/
+
+.overview-hero {
+    background-color: #E2E8F0;
+    padding: 50px;
+}
+
+.overview-hero-image img {
+    float: left;
+    padding-right: 50px;
+}
+
+.overview-hero-text {
+    padding-top: 20px;
+}
