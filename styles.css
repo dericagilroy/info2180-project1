@@ -118,3 +118,25 @@ li a:hover {
 .cta button:hover {
     background-color: #add8bf;
 }
+
+/*-------------------------------------------------------------------------------------------------------------------*/
+
+.stories {
+    padding: 50px;
+}
+
+.stories h2, .stories a {
+    color: #5A67D8;
+}
+
+article img {
+    float: left;
+    border-radius: 50%;
+    height: 174px;
+    width: 174px;
+    padding-right: 15px;
+}
+
+.article-body {
+    padding-bottom: 25px;
+}
